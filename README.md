@@ -1,3 +1,3 @@
-### This is a try to recreate google front page using html and css
+### This is an attempt to recreate google front page using html and css
 
-this is just using very basic knowledge of html and css (not js)
+this is just using very basic knowledge of html and css 
